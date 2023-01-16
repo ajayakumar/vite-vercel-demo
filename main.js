@@ -1,7 +1,7 @@
 import './style.css'
 import javascriptLogo from './javascript.svg'
 import { setupCounter } from './counter.js'
-
+/*
 document.querySelector('#app').innerHTML = `
   <div>
     <a href="https://vitejs.dev" target="_blank">
@@ -15,9 +15,8 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite logo to learn more now
+      Click on the Vite logo to learn more
     </p>
   </div>
 `
-
-setupCounter(document.querySelector('#counter'))
+*/
